@@ -3,7 +3,7 @@ Robber Test
 
 Installation
 
-create dir "robber-test"
+git clone git://github.com/maxshow1970/robber_app.git
 
 cd robber-test
 
