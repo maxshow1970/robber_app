@@ -1,7 +1,7 @@
 # robber_app
-Robber Test
+Robber App
 
-##Installation
+## Installation
 
 git clone git://github.com/maxshow1970/robber_app.git
 
