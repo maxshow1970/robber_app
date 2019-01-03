@@ -1,7 +1,8 @@
 # robber_app
-Robber App
+Robber Test
 
 Installation
+
 create dir "robber-test"
 
 cd robber-test
