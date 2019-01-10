@@ -38,14 +38,6 @@ class SortByButtons extends Component {
                     icon={ <FontIcon className="material-icons" >sort</FontIcon>}
                     style={style}
                 />
-                {/*<button className="btn btn-default" onClick={()=>this.changeOrder('nameASC', !this.state.nameASC)}>*/}
-                    {/*<i className="icon fa fa-sort-alpha-asc"></i>*/}
-                    {/*<span>Sort by name</span>*/}
-                {/*</button>*/}
-                {/*<button className="btn btn-default" onClick={()=>this.changeOrder('ageASC', !this.state.ageASC)}>*/}
-                    {/*<i className="icon fa fa-sort-numeric-desc"></i>*/}
-                    {/*<span>Sort by age</span>*/}
-                {/*</button>*/}
             </div>
         )
     }
