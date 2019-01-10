@@ -22,7 +22,7 @@ code {
   justify-content: space-between;
 }
 
-.containerMagazin{
+.containerMarket{
   width: 48%;
 }
 
@@ -32,4 +32,13 @@ code {
 
 h1{
   text-align: center;
+}
+
+.searchbar{
+  margin-top: 40px;
+
+}
+
+.toolbar{
+  margin: 15px 0;
 }
