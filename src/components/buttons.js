@@ -20,13 +20,6 @@ export const AppButtons = (props) => {
                     style={style}
                 />
                 <RaisedButton
-                    label="Edit"
-                    onClick = {(event) => props.onAdd(event.currentTarget)}
-                    primary={true}
-                    style={style}
-                    disabled={props.itemsChecked.length === 0 || props.itemsChecked.length > 1}
-                />
-                <RaisedButton
                     label="Delete"
                     backgroundColor={red700}
                     onClick = {() => props.onDelete()}
